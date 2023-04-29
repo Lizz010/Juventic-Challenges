@@ -1,0 +1,29 @@
+/*PROPIEDADES CONTAINER*/
+.social {
+	width: 48px;
+	position: fixed;
+	top: 50px;
+	right: 0;
+	border: 1px solid #FB3105;
+	background: #FB3105;
+	top: 40%;
+	height: 180px;
+	margin-top: -100px;
+	margin-right: 20px;
+}
+
+/*MODIFICACIÓN CADA ICONO*/
+.fb {
+	width: 44%;
+	padding-top: 18px;
+}
+
+.tw {
+	width: 72%;
+	padding-top: 24px;
+}
+
+.yt {
+	width: 67%;
+	padding-top: 26px;
+}
